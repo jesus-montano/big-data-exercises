@@ -18,4 +18,3 @@ This repo contains several common big data exercises.
     #from the repository root
     mvn test
  
-pinchi gera me la pela
